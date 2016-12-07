@@ -1,2 +1,4 @@
-introduction.md
-JavaScript
+* JavaScript
+* Git
+* PHP
+* Killing history using git rebase
